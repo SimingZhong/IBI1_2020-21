@@ -1,0 +1,18 @@
+I like tea
+I like coffee
+I like chocolate
+I like forest
+I like spring
+I like my dog very much
+I like plants
+<<<<<<< HEAD
+I like food
+I like ocean
+I like my bed
+=======
+I like rainy days
+I like wind
+I like flowers
+I like water
+I don't like wine
+>>>>>>> Alex
