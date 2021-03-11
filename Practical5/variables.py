@@ -11,7 +11,10 @@ else:
   print("d is equal to e")
 
 
-X=True
-Y=False
+X=False
+Y=True
 Z=(X and not Y) or (Y and not X)
-print(Z)
+W=(X!=Y)
+
+print("Z=",Z)
+print("W=",W)
