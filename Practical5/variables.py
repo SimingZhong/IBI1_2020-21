@@ -9,3 +9,9 @@ elif d<e:
   print("e is greater")
 else:
   print("d is equal to e")
+
+
+X=True
+Y=False
+Z=(X and not Y) or (Y and not X)
+print(Z)
