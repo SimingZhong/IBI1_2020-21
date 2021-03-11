@@ -17,5 +17,5 @@ while p==False:
 	n = randint(1,100)
 	if n > 50:
 		p = False
-
+#If n <= 50, this while loop will not end. And n will not be printed.
 print(n)
