@@ -1,7 +1,8 @@
 #The first two places in the sequence are 1,1.
 a = 1
 b = 1
-
+print(a)
+print(b)
 #Now the sequence is in its second place.
 n = 2
 
@@ -13,6 +14,8 @@ while 1 == 1:
 #We know the previous two numbers now, so we calculate the next number (the sum of them).
 
     c = a+b
+   
+    print(c)
 #Reset the value of "the previous two numbers", so we can let the while loop go on with no gap.
 
     a = b
@@ -25,5 +28,3 @@ while 1 == 1:
 #Fibonacci calculated this sequence up to its 13 place
     if n == 13:
        break
-
-print("The 13th value of this Fibonacci sequence is:", c)
