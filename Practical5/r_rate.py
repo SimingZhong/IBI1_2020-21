@@ -6,8 +6,8 @@ n=84
 
 #How can I calculate the total number of infected individuals after 5 rounds of infection
 #Use this math method to calculate
-#x is the number of rounds. At the beginning, x=0
-x=0
+#x is the number of rounds plus one. At the beginning, x=0
+x=1
 
 #I am going to calculate the total number of infected individuals after 5 rounds of infection.
 #So x can not be more than 5.
