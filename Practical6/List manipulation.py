@@ -29,13 +29,29 @@ score = c
 #What information I want this boxplot to show?
 
 plt.boxplot(score,
+
+            #If the boxplot is vertical?
             vert = True,
+
+            #Decide the interquartile range.
             whis = 1.5,
+
+            #If the box is colored?
             patch_artist = False,
+
+            #Can we see the mean value in the boxplot?
             meanline = False,
+
+            #Can we see the box?
             showbox = True,
+
+            #Can we see the minimum and maximum?
             showcaps = True,
+
+            #Can we see outliers?
             showfliers = True,
+
+            #If there is notch?
             notch = False
               )
 
