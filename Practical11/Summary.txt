@@ -1,0 +1,25 @@
+Findings:
+
+Alignment scores:
+human-mouse: 1091
+human-random: -250
+mouse-random: -250
+
+The percentage of identical amino acids:
+human-mouse: 89.64%
+human-random: 5.41%
+mouse-random: 5.86%
+
+
+
+Interpretation:
+
+Humans and mice have a high percentage of identical amino acids, which shows the biological homology. 
+Comparing the percentage of identical amino acids of human-mouse pair and human-random pair, 
+we can know that, in different species, the function of the same protein may be similar.
+That's why we can test new drugs for human in mice.
+However, there are still about 10% of amino acids that are different.
+That special protein sequence may be the characteristic sequence for the species, 
+and it may help us to identify proteins from different species.
+Maybe this is one of the important reasons why some drugs are effective in mice, 
+however, are less effective in the human body.
