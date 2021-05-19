@@ -2,7 +2,7 @@ import os
 import re
 import itertools
 
-os.chdir("C:\\Users\嘤嘤怪的一朵玫瑰花\IBI1_2020-21\Practical8") #change work directory
+os.chdir("C:\\Users\嘤嘤怪的一朵玫瑰花\IBI1_2020-21\Practical8") #change working directory
 
 
 #input genetic code table
