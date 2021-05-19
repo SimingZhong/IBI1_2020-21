@@ -1,7 +1,7 @@
 import os
 import re
 
-os.chdir("C:\\Users\嘤嘤怪的一朵玫瑰花\IBI1_2020-21\Practical8") #change work directory
+os.chdir("C:\\Users\嘤嘤怪的一朵玫瑰花\IBI1_2020-21\Practical8") #change working directory
 
 sequence = '' #define sequence
 with open('Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa', 'r') as fin, open('unknown_function.fa', 'w') as fout: #read the original file and write a new file
