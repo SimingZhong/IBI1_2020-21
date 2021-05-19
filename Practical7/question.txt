@@ -2,7 +2,7 @@ Question:
 South Korea, Kenya, and Colombia are three countries in different parts of the world, but with similar populations. 
 Plot the total number of COVID cases over time in all three.
 
-Line number: 56
+Line number: 58
 
 Discussion:
 We can know from the plot that the numbers of total cases are different among these three countries. 
